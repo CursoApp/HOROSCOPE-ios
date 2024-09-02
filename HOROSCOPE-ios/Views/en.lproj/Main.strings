@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label 1"; ObjectID = "OE8-CY-jQU"; */
+"OE8-CY-jQU.text" = "Label 1";
+
+/* Class = "UITextView"; text = "Aries es el signo de fuego que da inicio a toda la rueda del zodíaco. No temer ser los líderes de todas las oportunidades y proyectos que se le presentan. Son intuitivos y al inicio no temen a los riesgos ni a los nuevos comienzos. Sin embargo, es su propia llama impulsiva lo que los lleva a tomar decisiones sin pensar demasiado en las consecuencias. Suelen tener una fogosidad innata que los hace resaltar en cualquier contexto.\n\nEn exceso, este fuego puede amenazar con quemarlo todo, para darse cuenta de que fue demasiado, cuando solo quedan las cenizas. Inocentes, impacientes y comprometidos con sus causas, su espíritu voluntarioso y compenetrado con los que ama, los convierten en una pareja ideal, si saben como controlar su llama."; ObjectID = "hWg-rQ-6WX"; */
+"hWg-rQ-6WX.text" = "Aries es el signo de fuego que da inicio a toda la rueda del zodíaco. No temer ser los líderes de todas las oportunidades y proyectos que se le presentan. Son intuitivos y al inicio no temen a los riesgos ni a los nuevos comienzos. Sin embargo, es su propia llama impulsiva lo que los lleva a tomar decisiones sin pensar demasiado en las consecuencias. Suelen tener una fogosidad innata que los hace resaltar en cualquier contexto.\n\nEn exceso, este fuego puede amenazar con quemarlo todo, para darse cuenta de que fue demasiado, cuando solo quedan las cenizas. Inocentes, impacientes y comprometidos con sus causas, su espíritu voluntarioso y compenetrado con los que ama, los convierten en una pareja ideal, si saben como controlar su llama.";
+
+/* Class = "UILabel"; text = "Label 2 "; ObjectID = "sw2-IO-F6O"; */
+"sw2-IO-F6O.text" = "Label 2 ";
